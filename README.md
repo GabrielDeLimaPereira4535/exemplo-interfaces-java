@@ -6,6 +6,7 @@ Este projeto apresenta um pequeno exemplo prático do uso de interfaces na lingu
 O exemplo consiste em um sistema simples de notificações, no qual diferentes formas de envio de mensagens podem ser utilizadas sem que o componente consumidor precise conhecer os detalhes de cada implementação.
 
 Exemplo de saída
+
 ===== SISTEMA DE NOTIFICAÇÕES =====
 
 Enviando e-mail...
