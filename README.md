@@ -14,6 +14,7 @@ Mensagem: Sua conta foi criada com sucesso!
 
 Enviando SMS...
 Mensagem: Seu código de confirmação é 1234.
+
 Tecnologias utilizadas
 Java
 Programação Orientada a Objetos
